@@ -73,6 +73,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\RayTest.cs" />
+    <Compile Include="Assets\Scripts\RotateTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\UniRx\ReadMe.txt" />
