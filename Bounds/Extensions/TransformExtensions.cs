@@ -7,6 +7,9 @@ namespace Unitylab
         /// <summary>
         /// Gets the rendering bounds of the transform.
         /// </summary>
+        /// <remarks>
+        /// use `target.transform.InverseTransformPoint(centerBounds.center);` to convert world position to local position.
+        /// </remarks>
         /// <param name="transform">The game object to get the bounding box for.</param>
         /// <param name="centerBound">The bounding box reference that will </param>
         /// <param name="encapsulate">Used to determine if the first bounding box to be calculated should be encapsulated into the  argument.</param>
