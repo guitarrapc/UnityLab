@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.guitarrapc.upm.test": "file:C:/git/guitarrapc/unity-package",
+    "com.guitarrapc.upm.test": "file:../../../../unity-package",
     "com.unity.ads": "2.0.8",
     "com.unity.analytics": "3.2.2",
     "com.unity.collab-proxy": "1.2.15",
